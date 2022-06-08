@@ -4,6 +4,8 @@
   <img src = "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </div>
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=i-am-shank&show_icons=true&count_private=true&include_all_commits=true&custom_title=My+GitHub+Stats&theme=radical"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-shank&layout=compact&theme=radical"></a>
+
 <!--
 **i-am-shank/i-am-shank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
