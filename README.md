@@ -10,7 +10,7 @@
 
 ---
 
-### :part_alternation_mark: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="30" height="30"/>&nbsp;
@@ -24,7 +24,7 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### :part_alternation_mark: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-shank&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-shank&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
