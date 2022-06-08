@@ -27,7 +27,7 @@
 ### 🔥 &nbsp; My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-shank&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-shank)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-shank&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **i-am-shank/i-am-shank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
