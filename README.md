@@ -25,6 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
 </div>
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-shank&layout=compact&theme=radical">
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-shank&show_icons=true&locale=en&layout=compact" alt="i-am-shank" /></p>
