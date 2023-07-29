@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-shank&show_icons=true&locale=en&layout=compact&theme=radical" alt="i-am-shank" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-shank&show_icons=true&locale=en" alt="i-am-shank" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-shank&show_icons=true&locale=en&theme=radical" alt="i-am-shank" /></p>
 
 <h3 align="left">Reach me at:</h3>
 <p align="left">
