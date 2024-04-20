@@ -39,6 +39,6 @@
 <a href="https://www.hackerrank.com/shashanksinha441" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="shashanksinha441" height="40" width="60" /></a> <br><br>
 <!--  Adding logo with profile-ratings & links :  -->
 <a href="https://leetcode.com/i_m_shank/"> <img src="https://cp-logo.vercel.app/leetcode/i_m_shank?logo=true"> </a>
-<a href="https://codeforces.com/profile/i_am_shank"> <img src="https://cp-logo.vercel.app/codeforces/i_am_shank?logo=true"> </a>
+<a href="https://codeforces.com/profile/i_am_shank"> <img src="https://badges.joonhyung.xyz/codeforces/i_am_shank.svg"> </a>
 <a href="https://www.codechef.com/users/i_am_shank"> <img src="https://cp-logo.vercel.app/codechef/i_am_shank?logo=true"> </a>
 </p>
