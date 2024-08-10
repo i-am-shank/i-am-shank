@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-shank" alt="i-am-shank" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
-
-- 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/1LT4kJOqQWkglmMGMZ_3eVDkJ50gd30Ld/view?usp=drive_link)
-
 - ⚡ Fun fact **I'm a musician**
 
 <h3 align="left">Connect with me:</h3>
