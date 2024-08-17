@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-shank" alt="i-am-shank" /></a> </p>
 
-- ⚡ Fun fact **I'm a musician**
+- ⚡ Fun fact **🎹 In my spare time I play music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
