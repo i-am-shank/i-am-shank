@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate programmer & full stack developer from India</h3>
+<p align="left">I specialize in end-to-end development from crafting engaging UIs to implementing robust backend systems.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-shank&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-shank" /> </p>
 
