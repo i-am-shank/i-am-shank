@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-shank&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-shank" /> </p>
 
-<h3> <a href="https://drive.google.com/file/d/1LT4kJOqQWkglmMGMZ_3eVDkJ50gd30Ld/view?usp=sharing">My Resume</a> </h3>
+<h3> <a href="https://drive.google.com/file/d/1LT4kJOqQWkglmMGMZ_3eVDkJ50gd30Ld/view?usp=sharing" target="_blank">My Resume</a> </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-shank" alt="i-am-shank" /></a> </p>
 
